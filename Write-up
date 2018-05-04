@@ -1,0 +1,7 @@
+Approach :
+
+-included extern in sum.c
+-understood where(in which register) the values passed to a function are stored in.
+-understood pointer arithmetic for C and asm.
+-compiling of asm code.
+-linking c and asm.
